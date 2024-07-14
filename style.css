@@ -1,0 +1,29 @@
+.center{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: black;
+}
+label{
+    color: blue;
+    font-size: 2rem;
+}
+input{
+    background-color: white;
+    margin: 0 1rem;
+    font-size: 1.25rem;
+    
+}
+
+button {
+    font-size: 1.5rem;
+    background-color: blue;
+    border-color: black;
+    border-style: none;
+    
+}
+h2{
+    color: blue;
+}
